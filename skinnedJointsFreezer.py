@@ -1,7 +1,7 @@
 # -*- coding:utf-8 -*-
 
 """
-Use this tool to freeze the joints bound in a mesh, no need to unbind the skin first.
+Use this tool to freeze the joints bound to a mesh, no need to unbind the skin first.
 Usage    : Select one or more skinned meshes, then run this script, notice, DO NOT select any other object, otherwise,
            an error should occur, if the error occurs, you should try to click Undo button to check if the last action
            is performed by yourself, not by the code
