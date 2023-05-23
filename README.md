@@ -1,5 +1,5 @@
 # MayaTinyTools
-Here are some tools I wrote for my projects or friends, some of them quickly written in a few hours.
+Here are some tools I wrote for my projects or friends, some of them were quickly written in a few hours.
 这是一些我为自己的项目或朋友们写的小工具，相当一部分是在几个小时内快速写出来的，不保证绝对的质量，但够用。
 
 Unlawful use of my code is prohibited
